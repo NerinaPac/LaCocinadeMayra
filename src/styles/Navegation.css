@@ -1,0 +1,30 @@
+nav {
+  background-color:var(--greySmooth);
+  opacity: 0.5;
+  
+}
+
+.nav-list {
+  display: flex;
+  justify-content:center;
+  padding: 1rem 0;
+  
+
+}
+
+.nav-list_item {
+  list-style: none;
+  }
+
+.nav-list_item-a{
+  padding: 8px;
+  margin: 0 1rem;
+  color: var(--brown);
+  font-weight:bolder;
+  font-size:18px;
+  cursor: pointer;
+}
+
+.nav-list_item-a:hover{
+  text-decoration: underline;
+}
