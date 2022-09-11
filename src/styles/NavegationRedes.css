@@ -1,0 +1,18 @@
+.nav-redes-lista {
+    display: flex;
+    justify-content:center;
+    padding: 1rem 0;
+}
+
+.nav-redes-lista-item {
+    list-style: none;
+}
+
+.nav-redes-lista-item-a {
+    cursor: pointer;
+}
+
+.redes-sociales{
+    width: 2rem;
+    margin: 0 8px;
+}
