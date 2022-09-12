@@ -1,12 +1,19 @@
-.container-nav{
+.header-nav{
+  max-width: 100%;
   background-color:var(--greySmooth);
   display: flex;
-  justify-content:space-between;
-  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
 }
+
 
 .logo-a{
   cursor: pointer;
+}
+
+.logo-a:hover{
+  filter: drop-shadow(0 1px 1px rgba(0, 0, 0, 0.5));
 }
 
 .logo-img{
@@ -14,9 +21,6 @@
   margin: 0 1rem;
 }
 
-.nav-redes{
-  align-self: flex-end;
-}
 .nav-list{
   display: flex;
   justify-content:center;

@@ -5,11 +5,11 @@ import NavegationRedes from "./NavegationRedes";
 
 function Navegation() {
     return ( 
-        <div className="container-nav"> 
+        <header className="header-nav"> 
             <a className="logo-a">
                 <img className="logo-img" src={LogoMay}/>
             </a>                
-            <nav>        
+            <nav className="nav-main">        
                 <ul className="nav-list">
                     <li className="nav-list_item">
                         <a className="nav-list_item-a">
@@ -31,7 +31,7 @@ function Navegation() {
 
             <NavegationRedes />            
 
-        </div>
+        </header>
         
     );
 }
