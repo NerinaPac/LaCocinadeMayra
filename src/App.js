@@ -1,13 +1,15 @@
 import './App.css';
 import Navegation from "./components/Navegation.js"
-import PresentacionHome from "./images/presentacion-home.jpg"
+import ContainerPresentacionHome from './components/ContainerPresentacionHome.js';
 
 function App() {
   return (
     <div className="App">          
       <Navegation />
-      <img src={PresentacionHome}/>
+      <main>
+        <ContainerPresentacionHome />
       
+      </main>
     </div>
   );
 }
