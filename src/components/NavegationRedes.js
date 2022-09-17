@@ -8,17 +8,17 @@ function NavegationRedes() {
         <nav className="nav-redes">
             <ul className="nav-redes-lista">
                 <li className="nav-redes-lista-item">
-                    <a className="nav-redes-lista-item-a">
+                    <a className="nav-redes-lista-item-a" href="https://www.facebook.com/profile.php?id=100063625802401">
                         <img className="redes-sociales" src={Face} />
                     </a>
                 </li>
                 <li className="nav-redes-lista-item">
-                    <a className="nav-redes-lista-item-a">
+                    <a className="nav-redes-lista-item-a" href="https://www.facebook.com/profile.php?id=100063625802401">
                         <img className="redes-sociales" src={Instagram} />
                     </a>
                 </li>
                 <li className="nav-redes-lista-item">
-                    <a className="nav-redes-lista-item-a"> 
+                    <a className="nav-redes-lista-item-a" href="https://www.facebook.com/profile.php?id=100063625802401"> 
                         <img className="redes-sociales" src={Whatsapp} />
                     </a>
                 </li>
