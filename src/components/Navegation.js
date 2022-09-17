@@ -7,7 +7,7 @@ function Navegation() {
     return ( 
         <header className="header-nav"> 
             <a className="logo-a" href="index.html">
-                <img className="logo-img" src={LogoMay}/>
+                <img className="logo-img" src={LogoMay} alt="La cocicna de Mayra, ir a Home" />
             </a>                
             <nav className="nav-main">        
                 <ul className="nav-list">
