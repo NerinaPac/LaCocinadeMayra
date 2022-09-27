@@ -62,43 +62,11 @@
     }
 }
 
-@media (max-width: 780px){
+@media (max-width: 783px){
 
     .container-logo{
-        max-width:12rem;
-        margin: 2rem;
+        display:none;
     }
 }
 
-@media (max-width: 635px){
-
-    .container-logo{
-        max-width:9rem;
-        margin: 2rem;
-    }
-
-    .logo-p{
-        font-size: 22px;
-    }
-
-    .corazon-home{
-        max-width: 3rem;
-    }
-}
-
-@media (max-width: 460px){
-
-    .container-logo{
-        max-width:6rem;
-        margin: 2rem 1rem;
-    } 
-    
-    .logo-p{
-        font-size: 15px;
-    }
-
-    .corazon-home{
-        max-width: 2rem;
-    }
-}
 

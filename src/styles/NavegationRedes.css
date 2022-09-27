@@ -21,3 +21,10 @@
     width: 2rem;
     margin: 0 8px;
 }
+
+@media (max-width: 785px){
+
+   .redes-sociales{
+    width: 3rem;
+   }   
+}

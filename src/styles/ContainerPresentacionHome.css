@@ -19,3 +19,14 @@
     }
 }
 
+
+
+@media (max-width: 785px){
+.container-presentacion{ 
+    background-image: url(../images/presentacion-home-app.jpg);
+    background-size: cover;
+    top: -320px;
+    height: 60rem;
+}
+
+}
