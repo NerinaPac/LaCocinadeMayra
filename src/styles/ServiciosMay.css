@@ -1,0 +1,6 @@
+.contenedor-serivcio {
+    max-width: 60rem;
+    background-color: var(--beige);
+    display: flex;
+    align-items: center;
+}

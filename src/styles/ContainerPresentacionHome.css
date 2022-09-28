@@ -1,5 +1,5 @@
 .container-presentacion{
-    background-image: url(../images/presentacion-home.jpg);
+    background-image: url(../images/home/presentacion-home.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     max-width: 100%;
@@ -23,7 +23,7 @@
 
 @media (max-width: 785px){
 .container-presentacion{ 
-    background-image: url(../images/presentacion-home-app.jpg);
+    background-image: url(../images/home/presentacion-home-app.jpg);
     background-size: cover;
     top: -320px;
     height: 55rem;

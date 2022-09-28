@@ -1,5 +1,5 @@
-import logoMayDos from "../images/logomaydos.png";
-import corazon from "../images/corazon.png";
+import logoMayDos from "../images/home/logomaydos.png";
+import corazon from "../images/home/corazon.png";
 import "../styles/LogoCocinaMay.css"
 
 function LogoCocinaMay() {
