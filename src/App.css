@@ -20,7 +20,7 @@ img {
 }
 
 body {
-    background-color: #D5BDAF;
+    background-color: var(--beigeStrong);
     background-image: url(./images/home/fondo-may.jpg);
     background-size: cover;
 }
