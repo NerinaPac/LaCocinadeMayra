@@ -16,8 +16,8 @@
     
 }
 
-.servicio-img{/* 
-    max-width: 500px; */
+.servicio-img{
+    max-width: 500px;
     padding: 1rem;
     filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.5));
 }
@@ -48,6 +48,7 @@
 
 @media (max-width: 785px) {
     .contenedor-servicio{
+        margin: 2rem;
         max-width: 650px;
         flex-wrap: wrap;
         justify-content: center;
